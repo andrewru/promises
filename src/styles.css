@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+}
+
+span.methodName {
+  font-style: italic;
+  color: purple;
+}
+
+span.moduleName {
+  font-weight: bold;
+  color: blue;
+}
+
+span.variableName {
+  color: green;
+}
+
+span.typeName {
+  color: blue;
+}
+
+span.elementName {
+  color: red;
+}
+
+span.keyword {
+  color: orange;
+}
+
+.code {
+  display: block;
+  font-family: monospace;
+  white-space: pre;
+  margin: 2em 0px;
+}
